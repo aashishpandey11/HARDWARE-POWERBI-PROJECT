@@ -77,7 +77,7 @@ A Power BI project that analyzes hardware sales data to uncover trends, regional
     Focus: Maintain growth with key customers and markets while monitoring high COGS impact in certain segments.
 ---
 
-[supply-chain view](https://github.com/Stutipandey046/HARDWARE-POWERBI-PROJECT/blob/main/dashboard/SUPPLY%20CHAIN%20VIEW%204.jpg)
+[supply-chain view](https://github.com/aashishpandey11/HARDWARE-POWERBI-PROJECT/blob/main/DASHBOARDS/supply%20chain%20view.png)
 ##  Key Insights – Supply Chain View (Summary)
 
 -  **Forecast Accuracy** is low at **34.26%**, down by 57.29% YoY — indicating unreliable demand forecasting.
