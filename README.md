@@ -42,7 +42,7 @@ A Power BI project that analyzes hardware sales data to uncover trends, regional
 ##  Dashboard
 #output
 
-[Finance view ]([images/dashboard.png](https://github.com/Stutipandey046/HARDWARE-POWERBI-PROJECT/blob/main/dashboard/FINANCE%20VIEW1.jpg))
+[Finance view ](https://github.com/aashishpandey11/HARDWARE-POWERBI-PROJECT/blob/main/DASHBOARDS/finance%20view.png)
 ##  Key Insights
 
 -  Net Sales grew by **35.33% YoY** to $3.74B
