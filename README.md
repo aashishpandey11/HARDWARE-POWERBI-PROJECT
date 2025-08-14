@@ -52,7 +52,7 @@ A Power BI project that analyzes hardware sales data to uncover trends, regional
 
 - ---
 
-[marketing view](https://github.com/Stutipandey046/HARDWARE-POWERBI-PROJECT/blob/main/dashboard/MARKETING%20VIEW3.jpg)
+[marketing view](https://github.com/aashishpandey11/HARDWARE-POWERBI-PROJECT/blob/main/DASHBOARDS/Marketing%20view.png)
 ##  Key Insights – Marketing View (Summary)
 
 -  **Notebook** segment had the highest sales ($1.58B) but still negative net profit (-12.79%).
