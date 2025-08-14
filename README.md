@@ -63,7 +63,7 @@ A Power BI project that analyzes hardware sales data to uncover trends, regional
 ---
 
 
-[Sales view](https://github.com/Stutipandey046/HARDWARE-POWERBI-PROJECT/blob/main/dashboard/SALES%20VIEW2.jpg)
+[Sales view](https://github.com/aashishpandey11/HARDWARE-POWERBI-PROJECT/blob/main/DASHBOARDS/sales%20view.png)
 ## Key Insights – Sales View (Summary)
 
 -  **Top Customers**: Amazon, Altiq Exclusive, and Flipkart drove the highest sales, with **Amazon contributing $496M** in Net Sales at 36.79% Gross Margin.
